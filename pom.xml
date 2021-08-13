@@ -26,7 +26,7 @@
         <commons.version>1.12</commons.version>
         <commons.lang3.version>3.9</commons.lang3.version>
         <commons.collection4.version>4.4</commons.collection4.version>
-        <bcprov.version>1.64</bcprov.version>
+        <bcprov.version>1.67</bcprov.version>
         <slf4j.version>2.0.0-alpha0</slf4j.version>
         <lombok.version>1.18.8</lombok.version>
         <jackson.version>2.10.1</jackson.version>
