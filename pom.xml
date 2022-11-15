@@ -29,7 +29,7 @@
         <bcprov.version>1.64</bcprov.version>
         <slf4j.version>2.0.0-alpha0</slf4j.version>
         <lombok.version>1.18.8</lombok.version>
-        <jackson.version>2.10.1</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <cloud.version>Greenwich.SR1</cloud.version>
         <aliyun.amqp.version>1.0.5</aliyun.amqp.version>
     </properties>
